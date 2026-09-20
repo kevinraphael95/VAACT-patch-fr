@@ -20,3 +20,11 @@ Rajouter ça dans le ProjectIgnis/config/user_configs.json
 		}
 
 ```
+
+# Avancement
+
+Finis et à vérifier : Atem, Kaiba, Révolver
+
+En cours : Joey
+
+Pas commencé : Jaden, Chad, Zane, Aster, Yusei, Jack, Yuma, Kite, Shark, Yuya, Reiji, Playmaker
