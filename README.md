@@ -1,6 +1,6 @@
 # Patch français du format alternatif VAACT
 
-Traduction française amateure pour le format alternatif Yu-Gi-Oh VAACT :
+Traduction française du format alternatif Yu-Gi-Oh VAACT :
 
 https://github.com/Mazorn/VAACT-Very-Accurate-Anime-Character-Tournament-
 
@@ -42,12 +42,3 @@ Rajouter ça dans le ProjectIgnis/config/user_configs.json
 		}
 
 ```
-
-
-# Avancement
-
-Finis et à vérifier : Atem, Kaiba, Révolver
-
-En cours : Joey
-
-Pas commencé : Jaden, Chad, Zane, Aster, Yusei, Jack, Yuma, Kite, Shark, Yuya, Reiji, Playmaker
