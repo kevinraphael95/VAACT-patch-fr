@@ -1,6 +1,6 @@
 # Patch français du format alternatif VAACT
 
-Traduction française du format alternatif Yu-Gi-Oh VAACT :
+Traduction française approximative du format alternatif Yu-Gi-Oh VAACT :
 
 https://github.com/Mazorn/VAACT-Very-Accurate-Anime-Character-Tournament-
 
