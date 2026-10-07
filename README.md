@@ -11,6 +11,19 @@ Basé sur la version A1.0.6 du format VAACT
 Rajouter ça dans le ProjectIgnis/config/user_configs.json
 
 ```
+{
+
+	"repos": [
+		{
+		"url": "https://github.com/Team13fr/IgnisMulti",
+		"repo_name": "Team13.fr Multilanguage updates",
+		"repo_path": "./config/languages",
+		"is_language": true,
+		"language": "",
+		"data_path": "",
+		"should_update": true,
+		"should_read": true
+		},
 		{
 		"url": "https://github.com/Mazorn/VAACT-Very-Accurate-Anime-Character-Tournament-",
 		"repo_name": "VAACT",
@@ -31,7 +44,6 @@ Rajouter ça dans le ProjectIgnis/config/user_configs.json
 		"should_update": true,
 		"should_read": true
 		},
-
 		{
 		"url": "https://github.com/kevinraphael95/VAACT-patch-fr",
 		"repo_name": "VAACT FR",
@@ -42,5 +54,19 @@ Rajouter ça dans le ProjectIgnis/config/user_configs.json
 		"should_update": true,
 		"should_read": true
 		}
+	],
 
+	"urls": [
+	],
+    	"servers": [
+  			{
+			"name": "VAACT",
+			"address": "146.59.225.202",
+			"duelport": 7911,
+			"roomaddress": "146.59.225.202",
+			"roomlistprotocol": "http",
+			"roomlistport": 7922
+		}
+	]
+}
 ```
