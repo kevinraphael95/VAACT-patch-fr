@@ -8,7 +8,7 @@ Basé sur la version A1.0.6 du format VAACT
 
 # Installation
 
-Rajouter ça dans le ProjectIgnis/config/user_configs.json
+ProjectIgnis/config/user_configs.json
 
 ```
 {
