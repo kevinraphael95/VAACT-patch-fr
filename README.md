@@ -2,7 +2,7 @@
 
 Traduction française approximative du [format alternatif Yu-Gi-Oh VAACT](https://github.com/Mazorn/VAACT-Very-Accurate-Anime-Character-Tournament-)
 
-Basé sur la version A1.0.6
+Basé sur la version A1.0.6 du format VAACT
 
 [Comparateur des cartes version originale/version traduite](https://kevinraphael95.github.io/vaact_verif_traduction/)
 
