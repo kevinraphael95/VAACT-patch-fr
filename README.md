@@ -10,8 +10,8 @@ ProjectIgnis/config/user_configs.json
 
 ```
 {
+  "repos": [
 
-	"repos": [
 		{
 		"url": "https://github.com/Team13fr/IgnisMulti",
 		"repo_name": "Team13.fr Multilanguage updates",
@@ -42,6 +42,26 @@ ProjectIgnis/config/user_configs.json
 		"should_update": true,
 		"should_read": true
 		},
+        {
+		"url": "https://github.com/Mazorn/VAACT-Very-Accurate-Anime-Character-Tournament-Banlist",
+		"repo_name": "VAACT-Banlist",
+		"repo_path": "./repositories/lflists/VAACT",
+		"is_language": false,
+		"language": "",
+		"data_path": "",
+		"should_update": true,
+		"should_read": true
+		},
+        {
+		"url": "https://github.com/Mazorn/VAACT-Very-Accurate-Anime-Character-Tournament-Puzzle",
+		"repo_name": "VAACT-Puzzle",
+		"repo_path": "./puzzles/VAACT",
+		"is_language": false,
+		"language": "",
+		"data_path": "",
+		"should_update": true,
+		"should_read": true
+		},
 		{
 		"url": "https://github.com/kevinraphael95/VAACT-patch-fr",
 		"repo_name": "VAACT FR",
@@ -52,10 +72,7 @@ ProjectIgnis/config/user_configs.json
 		"should_update": true,
 		"should_read": true
 		}
-	],
-
-	"urls": [
-	],
+  ],
     	"servers": [
   			{
 			"name": "VAACT",
@@ -65,6 +82,7 @@ ProjectIgnis/config/user_configs.json
 			"roomlistprotocol": "http",
 			"roomlistport": 7922
 		}
-	]
+	],
 }
+
 ```
